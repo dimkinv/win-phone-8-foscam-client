@@ -1,0 +1,15 @@
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bin\Debug\ReverseMap\resources.pri
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bin\Debug\AppxManifest.xml
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bin\Debug\FoscamClient.build.appxrecipe
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\priconfig.xml
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\priconfig.xml.intermediate
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\layout.resfiles
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\layout.resfiles.intermediate
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\resources.resfiles
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\resources.resfiles.intermediate
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\pri.resfiles
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\pri.resfiles.intermediate
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\qualifiers.txt
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\qualifiers.txt.intermediate
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\ProjectArchitectures.txt
