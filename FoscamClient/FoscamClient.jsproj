@@ -171,7 +171,6 @@
     <Content Include="bower_components\jquery\src\var\toString.js" />
     <Content Include="bower_components\jquery\src\wrap.js" />
     <Content Include="bower_components\ui-router\.bower.json" />
-    <TypeScriptCompile Include="bower_components\ui-router\api\angular-ui-router.d.ts" />
     <Content Include="bower_components\ui-router\bower.json" />
     <Content Include="bower_components\ui-router\CHANGELOG.md" />
     <Content Include="bower_components\ui-router\CONTRIBUTING.md" />
@@ -218,13 +217,19 @@
     <Content Include="css\ui-themed.css" />
     <Content Include="css\ui-themed.theme-dark.css" />
     <Content Include="css\ui-themed.theme-light.css" />
+    <Content Include="js\services\proxy.service.js" />
+    <Content Include="js\services\winjs-bridge.service.js" />
+    <Content Include="views\camera-details\camera-details.css" />
     <Content Include="views\home\home.controller.js" />
     <Content Include="views\home\home.html" />
-    <Content Include="views\second-screen\second-screen.controller.js" />
-    <Content Include="views\second-screen\second-screen.html" />
+    <Content Include="views\camera-details\camera-details.controller.js" />
+    <Content Include="views\camera-details\camera-details.html" />
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.Phone.WinJS.2.1, Version=1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bower_components\ui-router\api\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />

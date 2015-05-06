@@ -1,7 +1,7 @@
 ﻿angular.module('FoscamClient', [
     'ui.router',
     'ngAnimate',
-    //'winjs'
+    //'winjs' 
 ])
     .config(function ($stateProvider) {
         $stateProvider
@@ -9,8 +9,10 @@
                 templateUrl: '/views/home/home.html',
                 controller: 'HomeController'
             })
-            .state('secondScreen', {
-                templateUrl: '/views/second-screen/second-screen.html'
+            .state('cameraDetails', {
+                params: { cameraId: 'new' },
+                templateUrl: '/views/camera-details/camera-details.html',
+                controller: 'CameraDetailsController'
             });
     })
 .run(function ($rootScope, $state) {

@@ -165,7 +165,10 @@ images\StoreLogo.scale-240.png
 images\Wide310x150Logo.scale-240.png
 js\app.js
 js\default.js
+js\services\proxy.service.js
+js\services\winjs-bridge.service.js
+views\camera-details\camera-details.controller.js
+views\camera-details\camera-details.css
+views\camera-details\camera-details.html
 views\home\home.controller.js
 views\home\home.html
-views\second-screen\second-screen.controller.js
-views\second-screen\second-screen.html

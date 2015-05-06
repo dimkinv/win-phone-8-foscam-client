@@ -1,0 +1,23 @@
+﻿.camera-details {
+    overflow: auto;
+}
+
+    .camera-details .fields {
+        margin: 15px;
+    }
+
+    .camera-details .snapshot {
+    }
+
+        .camera-details .snapshot .button {
+            float: left;
+        }
+
+        .camera-details .snapshot .img {
+            float: right;
+            margin-right: 15px;
+            height: 300px;
+            width: calc(100% - 128px);
+            background-repeat: no-repeat;
+            background-size:contain;
+        }

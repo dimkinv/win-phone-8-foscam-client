@@ -1,0 +1,35 @@
+﻿<div class="camera-details win-scrollview" style="overflow-y:auto;height:100%">
+    <h1 ng-bind="model.camera.name"></h1>
+    <div class="fields">
+        <div>
+            <label for="cameraName">Camera Name:</label>
+            <input id="cameraName" type="text" ng-model="model.camera.name" />
+        </div>
+        <div>
+            <label for="host">Camera Host/IP:</label>
+            <input id="host" type="text" ng-model="model.camera.host" placeholder="127.0.0.1" />
+        </div>
+        <div>
+            <label for="port">Camera Port:</label>
+            <input id="port" type="number" ng-model="model.camera.port" />
+        </div>
+        <div>
+            <label for="username">Username(optional):</label>
+            <input id="username" type="text" ng-model="model.camera.username" placeholder="username" />
+        </div>
+        <div>
+            <label for="password">Password(optional):</label>
+            <input id="password" type="password" ng-model="model.camera.password" placeholder="password" />
+        </div>
+    </div>
+    <div id="createAppBar" data-win-control="WinJS.UI.AppBar">
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'cmdAdd',label:'Save',icon:'save',tooltip:'Save camera',section:'primary'}"></button>
+    </div>
+    <div class="snapshot">
+        <div class="button">
+            <button type="button" ng-click="events.testCamera()">Test</button>
+        </div>
+        <div class="img" ng-style="{background: model.cameraSnapshot}"></div>
+     
+    </div>
+</div>

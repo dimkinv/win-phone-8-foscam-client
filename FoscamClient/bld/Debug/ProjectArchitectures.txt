@@ -1,1 +1,1 @@
-c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\FoscamClient.jsproj;neutral
+C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\FoscamClient.jsproj;neutral

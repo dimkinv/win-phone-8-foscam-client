@@ -7,535 +7,544 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>4a6ccb98-c357-4ce5-a2c4-5e6e7b2ac5b3</PackageIdentityName>
-    <IntermediateOutputPath>c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bld\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\.bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\.bower.json">
       <PackagePath>bower_components\angular-animate\.bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\bower.json">
       <PackagePath>bower_components\angular-animate\bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\package.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\package.json">
       <PackagePath>bower_components\angular-animate\package.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\.bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\.bower.json">
       <PackagePath>bower_components\angular-winjs\.bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\bower.json">
       <PackagePath>bower_components\angular-winjs\bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\package.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\package.json">
       <PackagePath>bower_components\angular-winjs\package.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\.bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\.bower.json">
       <PackagePath>bower_components\angular\.bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\bower.json">
       <PackagePath>bower_components\angular\bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\package.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\package.json">
       <PackagePath>bower_components\angular\package.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\.bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\.bower.json">
       <PackagePath>bower_components\jquery\.bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\bower.json">
       <PackagePath>bower_components\jquery\bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\.bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\.bower.json">
       <PackagePath>bower_components\ui-router\.bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\bower.json">
       <PackagePath>bower_components\ui-router\bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\.bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\.bower.json">
       <PackagePath>bower_components\winjs\.bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\bower.json">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\bower.json">
       <PackagePath>bower_components\winjs\bower.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\angular-animate.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\angular-animate.js">
       <PackagePath>bower_components\angular-animate\angular-animate.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\angular-animate.min.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\angular-animate.min.js">
       <PackagePath>bower_components\angular-animate\angular-animate.min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\index.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\index.js">
       <PackagePath>bower_components\angular-animate\index.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\external\WinJS.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\external\WinJS.js">
       <PackagePath>bower_components\angular-winjs\external\WinJS.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\js\angular-winjs.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\js\angular-winjs.js">
       <PackagePath>bower_components\angular-winjs\js\angular-winjs.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\karma.config.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\karma.config.js">
       <PackagePath>bower_components\angular-winjs\karma.config.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.js">
       <PackagePath>bower_components\angular\angular.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.min.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.min.js">
       <PackagePath>bower_components\angular\angular.min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\index.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\index.js">
       <PackagePath>bower_components\angular\index.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\dist\jquery.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\dist\jquery.js">
       <PackagePath>bower_components\jquery\dist\jquery.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\dist\jquery.min.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\dist\jquery.min.js">
       <PackagePath>bower_components\jquery\dist\jquery.min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax.js">
       <PackagePath>bower_components\jquery\src\ajax.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\jsonp.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\jsonp.js">
       <PackagePath>bower_components\jquery\src\ajax\jsonp.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\load.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\load.js">
       <PackagePath>bower_components\jquery\src\ajax\load.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\parseJSON.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\parseJSON.js">
       <PackagePath>bower_components\jquery\src\ajax\parseJSON.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\parseXML.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\parseXML.js">
       <PackagePath>bower_components\jquery\src\ajax\parseXML.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\script.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\script.js">
       <PackagePath>bower_components\jquery\src\ajax\script.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\var\nonce.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\var\nonce.js">
       <PackagePath>bower_components\jquery\src\ajax\var\nonce.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\var\rquery.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\var\rquery.js">
       <PackagePath>bower_components\jquery\src\ajax\var\rquery.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\xhr.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\ajax\xhr.js">
       <PackagePath>bower_components\jquery\src\ajax\xhr.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes.js">
       <PackagePath>bower_components\jquery\src\attributes.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\attr.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\attr.js">
       <PackagePath>bower_components\jquery\src\attributes\attr.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\classes.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\classes.js">
       <PackagePath>bower_components\jquery\src\attributes\classes.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\prop.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\prop.js">
       <PackagePath>bower_components\jquery\src\attributes\prop.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\support.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\support.js">
       <PackagePath>bower_components\jquery\src\attributes\support.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\val.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\attributes\val.js">
       <PackagePath>bower_components\jquery\src\attributes\val.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\callbacks.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\callbacks.js">
       <PackagePath>bower_components\jquery\src\callbacks.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core.js">
       <PackagePath>bower_components\jquery\src\core.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\access.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\access.js">
       <PackagePath>bower_components\jquery\src\core\access.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\init.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\init.js">
       <PackagePath>bower_components\jquery\src\core\init.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\parseHTML.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\parseHTML.js">
       <PackagePath>bower_components\jquery\src\core\parseHTML.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\ready.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\ready.js">
       <PackagePath>bower_components\jquery\src\core\ready.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\var\rsingleTag.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\core\var\rsingleTag.js">
       <PackagePath>bower_components\jquery\src\core\var\rsingleTag.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css.js">
       <PackagePath>bower_components\jquery\src\css.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\addGetHookIf.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\addGetHookIf.js">
       <PackagePath>bower_components\jquery\src\css\addGetHookIf.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\curCSS.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\curCSS.js">
       <PackagePath>bower_components\jquery\src\css\curCSS.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\defaultDisplay.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\defaultDisplay.js">
       <PackagePath>bower_components\jquery\src\css\defaultDisplay.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\hiddenVisibleSelectors.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\hiddenVisibleSelectors.js">
       <PackagePath>bower_components\jquery\src\css\hiddenVisibleSelectors.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\support.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\support.js">
       <PackagePath>bower_components\jquery\src\css\support.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\swap.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\swap.js">
       <PackagePath>bower_components\jquery\src\css\swap.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\cssExpand.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\cssExpand.js">
       <PackagePath>bower_components\jquery\src\css\var\cssExpand.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\getStyles.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\getStyles.js">
       <PackagePath>bower_components\jquery\src\css\var\getStyles.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\isHidden.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\isHidden.js">
       <PackagePath>bower_components\jquery\src\css\var\isHidden.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\rmargin.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\rmargin.js">
       <PackagePath>bower_components\jquery\src\css\var\rmargin.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\rnumnonpx.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\css\var\rnumnonpx.js">
       <PackagePath>bower_components\jquery\src\css\var\rnumnonpx.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data.js">
       <PackagePath>bower_components\jquery\src\data.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\accepts.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\accepts.js">
       <PackagePath>bower_components\jquery\src\data\accepts.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\Data.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\Data.js">
       <PackagePath>bower_components\jquery\src\data\Data.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\var\data_priv.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\var\data_priv.js">
       <PackagePath>bower_components\jquery\src\data\var\data_priv.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\var\data_user.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\data\var\data_user.js">
       <PackagePath>bower_components\jquery\src\data\var\data_user.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\deferred.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\deferred.js">
       <PackagePath>bower_components\jquery\src\deferred.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\deprecated.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\deprecated.js">
       <PackagePath>bower_components\jquery\src\deprecated.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\dimensions.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\dimensions.js">
       <PackagePath>bower_components\jquery\src\dimensions.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\effects.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\effects.js">
       <PackagePath>bower_components\jquery\src\effects.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\effects\animatedSelector.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\effects\animatedSelector.js">
       <PackagePath>bower_components\jquery\src\effects\animatedSelector.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\effects\Tween.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\effects\Tween.js">
       <PackagePath>bower_components\jquery\src\effects\Tween.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event.js">
       <PackagePath>bower_components\jquery\src\event.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event\ajax.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event\ajax.js">
       <PackagePath>bower_components\jquery\src\event\ajax.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event\alias.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event\alias.js">
       <PackagePath>bower_components\jquery\src\event\alias.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event\support.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\event\support.js">
       <PackagePath>bower_components\jquery\src\event\support.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\exports\amd.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\exports\amd.js">
       <PackagePath>bower_components\jquery\src\exports\amd.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\exports\global.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\exports\global.js">
       <PackagePath>bower_components\jquery\src\exports\global.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\intro.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\intro.js">
       <PackagePath>bower_components\jquery\src\intro.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\jquery.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\jquery.js">
       <PackagePath>bower_components\jquery\src\jquery.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation.js">
       <PackagePath>bower_components\jquery\src\manipulation.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation\support.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation\support.js">
       <PackagePath>bower_components\jquery\src\manipulation\support.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation\var\rcheckableType.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation\var\rcheckableType.js">
       <PackagePath>bower_components\jquery\src\manipulation\var\rcheckableType.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation\_evalUrl.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\manipulation\_evalUrl.js">
       <PackagePath>bower_components\jquery\src\manipulation\_evalUrl.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\offset.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\offset.js">
       <PackagePath>bower_components\jquery\src\offset.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\outro.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\outro.js">
       <PackagePath>bower_components\jquery\src\outro.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\queue.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\queue.js">
       <PackagePath>bower_components\jquery\src\queue.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\queue\delay.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\queue\delay.js">
       <PackagePath>bower_components\jquery\src\queue\delay.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\selector-native.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\selector-native.js">
       <PackagePath>bower_components\jquery\src\selector-native.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\selector-sizzle.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\selector-sizzle.js">
       <PackagePath>bower_components\jquery\src\selector-sizzle.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\selector.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\selector.js">
       <PackagePath>bower_components\jquery\src\selector.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\serialize.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\serialize.js">
       <PackagePath>bower_components\jquery\src\serialize.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\sizzle\dist\sizzle.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\sizzle\dist\sizzle.js">
       <PackagePath>bower_components\jquery\src\sizzle\dist\sizzle.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\sizzle\dist\sizzle.min.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\sizzle\dist\sizzle.min.js">
       <PackagePath>bower_components\jquery\src\sizzle\dist\sizzle.min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\traversing.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\traversing.js">
       <PackagePath>bower_components\jquery\src\traversing.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\traversing\findFilter.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\traversing\findFilter.js">
       <PackagePath>bower_components\jquery\src\traversing\findFilter.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\traversing\var\rneedsContext.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\traversing\var\rneedsContext.js">
       <PackagePath>bower_components\jquery\src\traversing\var\rneedsContext.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\arr.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\arr.js">
       <PackagePath>bower_components\jquery\src\var\arr.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\class2type.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\class2type.js">
       <PackagePath>bower_components\jquery\src\var\class2type.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\concat.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\concat.js">
       <PackagePath>bower_components\jquery\src\var\concat.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\hasOwn.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\hasOwn.js">
       <PackagePath>bower_components\jquery\src\var\hasOwn.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\indexOf.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\indexOf.js">
       <PackagePath>bower_components\jquery\src\var\indexOf.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\pnum.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\pnum.js">
       <PackagePath>bower_components\jquery\src\var\pnum.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\push.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\push.js">
       <PackagePath>bower_components\jquery\src\var\push.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\rnotwhite.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\rnotwhite.js">
       <PackagePath>bower_components\jquery\src\var\rnotwhite.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\slice.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\slice.js">
       <PackagePath>bower_components\jquery\src\var\slice.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\strundefined.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\strundefined.js">
       <PackagePath>bower_components\jquery\src\var\strundefined.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\support.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\support.js">
       <PackagePath>bower_components\jquery\src\var\support.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\toString.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\var\toString.js">
       <PackagePath>bower_components\jquery\src\var\toString.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\wrap.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\wrap.js">
       <PackagePath>bower_components\jquery\src\wrap.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\release\angular-ui-router.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\release\angular-ui-router.js">
       <PackagePath>bower_components\ui-router\release\angular-ui-router.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\release\angular-ui-router.min.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\release\angular-ui-router.min.js">
       <PackagePath>bower_components\ui-router\release\angular-ui-router.min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\common.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\common.js">
       <PackagePath>bower_components\ui-router\src\common.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\resolve.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\resolve.js">
       <PackagePath>bower_components\ui-router\src\resolve.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\state.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\state.js">
       <PackagePath>bower_components\ui-router\src\state.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\stateDirectives.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\stateDirectives.js">
       <PackagePath>bower_components\ui-router\src\stateDirectives.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\stateFilters.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\stateFilters.js">
       <PackagePath>bower_components\ui-router\src\stateFilters.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\templateFactory.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\templateFactory.js">
       <PackagePath>bower_components\ui-router\src\templateFactory.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\urlMatcherFactory.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\urlMatcherFactory.js">
       <PackagePath>bower_components\ui-router\src\urlMatcherFactory.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\urlRouter.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\urlRouter.js">
       <PackagePath>bower_components\ui-router\src\urlRouter.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\view.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\view.js">
       <PackagePath>bower_components\ui-router\src\view.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\viewDirective.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\viewDirective.js">
       <PackagePath>bower_components\ui-router\src\viewDirective.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\viewScroll.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\src\viewScroll.js">
       <PackagePath>bower_components\ui-router\src\viewScroll.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\en-US\ui.strings.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\en-US\ui.strings.js">
       <PackagePath>bower_components\winjs\js\en-US\ui.strings.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.intellisense-setup.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.intellisense-setup.js">
       <PackagePath>bower_components\winjs\js\WinJS.intellisense-setup.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.intellisense.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.intellisense.js">
       <PackagePath>bower_components\winjs\js\WinJS.intellisense.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.js">
       <PackagePath>bower_components\winjs\js\WinJS.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.min.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.min.js">
       <PackagePath>bower_components\winjs\js\WinJS.min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\js\app.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\js\app.js">
       <PackagePath>js\app.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\js\default.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\js\default.js">
       <PackagePath>js\default.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\views\home\home.controller.js">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\js\services\proxy.service.js">
+      <PackagePath>js\services\proxy.service.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\js\services\winjs-bridge.service.js">
+      <PackagePath>js\services\winjs-bridge.service.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\views\home\home.controller.js">
       <PackagePath>views\home\home.controller.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\views\second-screen\second-screen.controller.js">
-      <PackagePath>views\second-screen\second-screen.controller.js</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\views\camera-details\camera-details.controller.js">
+      <PackagePath>views\camera-details\camera-details.controller.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\angular-animate.min.js.map">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\angular-animate.min.js.map">
       <PackagePath>bower_components\angular-animate\angular-animate.min.js.map</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.min.js.map">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.min.js.map">
       <PackagePath>bower_components\angular\angular.min.js.map</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\dist\jquery.min.map">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\dist\jquery.min.map">
       <PackagePath>bower_components\jquery\dist\jquery.min.map</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\sizzle\dist\sizzle.min.map">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\src\sizzle\dist\sizzle.min.map">
       <PackagePath>bower_components\jquery\src\sizzle\dist\sizzle.min.map</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.min.js.map">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\js\WinJS.min.js.map">
       <PackagePath>bower_components\winjs\js\WinJS.min.js.map</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\README.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-animate\README.md">
       <PackagePath>bower_components\angular-animate\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\external\README.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\external\README.md">
       <PackagePath>bower_components\angular-winjs\external\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\README.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\README.md">
       <PackagePath>bower_components\angular-winjs\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\README.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\README.md">
       <PackagePath>bower_components\angular\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\CHANGELOG.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\CHANGELOG.md">
       <PackagePath>bower_components\ui-router\CHANGELOG.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\CONTRIBUTING.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\CONTRIBUTING.md">
       <PackagePath>bower_components\ui-router\CONTRIBUTING.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\README.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\README.md">
       <PackagePath>bower_components\ui-router\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\README.md">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\README.md">
       <PackagePath>bower_components\winjs\README.md</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\external\ui-dark.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\external\ui-dark.css">
       <PackagePath>bower_components\angular-winjs\external\ui-dark.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular-csp.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular-csp.css">
       <PackagePath>bower_components\angular\angular-csp.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-dark.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-dark.css">
       <PackagePath>bower_components\winjs\css\ui-dark.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-dark.min.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-dark.min.css">
       <PackagePath>bower_components\winjs\css\ui-dark.min.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-light.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-light.css">
       <PackagePath>bower_components\winjs\css\ui-light.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-light.min.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\css\ui-light.min.css">
       <PackagePath>bower_components\winjs\css\ui-light.min.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\css\default.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\css\default.css">
       <PackagePath>css\default.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\css\ui-themed.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\css\ui-themed.css">
       <PackagePath>css\ui-themed.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\css\ui-themed.theme-dark.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\css\ui-themed.theme-dark.css">
       <PackagePath>css\ui-themed.theme-dark.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\css\ui-themed.theme-light.css">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\css\ui-themed.theme-light.css">
       <PackagePath>css\ui-themed.theme-light.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\fonts\Symbols.ttf">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\views\camera-details\camera-details.css">
+      <PackagePath>views\camera-details\camera-details.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\fonts\Symbols.ttf">
       <PackagePath>bower_components\angular-winjs\fonts\Symbols.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\fonts\Symbols.ttf">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\fonts\Symbols.ttf">
       <PackagePath>bower_components\winjs\fonts\Symbols.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\License.txt">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\License.txt">
       <PackagePath>bower_components\angular-winjs\License.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\MIT-LICENSE.txt">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\jquery\MIT-LICENSE.txt">
       <PackagePath>bower_components\jquery\MIT-LICENSE.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\License.txt">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\winjs\License.txt">
       <PackagePath>bower_components\winjs\License.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\nuget\Angular.WinJS.2.0.0.nuspec">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular-winjs\nuget\Angular.WinJS.2.0.0.nuspec">
       <PackagePath>bower_components\angular-winjs\nuget\Angular.WinJS.2.0.0.nuspec</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.min.js.gzip">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\angular\angular.min.js.gzip">
       <PackagePath>bower_components\angular\angular.min.js.gzip</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\LICENSE">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bower_components\ui-router\LICENSE">
       <PackagePath>bower_components\ui-router\LICENSE</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\default.html">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\default.html">
       <PackagePath>default.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\views\home\home.html">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\views\home\home.html">
       <PackagePath>views\home\home.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\views\second-screen\second-screen.html">
-      <PackagePath>views\second-screen\second-screen.html</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\views\camera-details\camera-details.html">
+      <PackagePath>views\camera-details\camera-details.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\images\Square150x150Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\images\Square150x150Logo.scale-240.png">
       <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\images\Square44x44Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\images\Square44x44Logo.scale-240.png">
       <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\images\Wide310x150Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\images\Wide310x150Logo.scale-240.png">
       <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\images\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\images\Square71x71Logo.scale-240.png">
       <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\images\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\images\SplashScreen.scale-240.png">
       <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\images\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\images\StoreLogo.scale-240.png">
       <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\Danny\Documents\Visual Studio 2013\Projects\FoscamClient\FoscamClient\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Danny\documents\visual studio 2013\Projects\FoscamClient\FoscamClient\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -4,31 +4,27 @@
     <meta charset="utf-8" />
     <title>angular_test</title>
 
-    <!-- WinJS references -->
-    <!-- At runtime, ui-themed.css resolves to ui-themed.light.css or ui-themed.dark.css
-    based on the user’s theme setting. This is part of the MRT resource loading functionality. -->
     <link href="/css/ui-themed.css" rel="stylesheet" />
+    <link href="views/camera-details/camera-details.css" rel="stylesheet" />
+
+</head>
+<body class="phone" style="height:100%">
+    <div ui-view class="turnstile-animation" style="height:100%"></div>
+
     <script src="//Microsoft.Phone.WinJS.2.1/js/base.js"></script>
     <script src="//Microsoft.Phone.WinJS.2.1/js/ui.js"></script>
 
-
-    <!--<link href="bower_components/angular-winjs/external/ui-dark.css" rel="stylesheet" />-->
-    <!--<script src="bower_components/angular-winjs/external/WinJS.js"></script>-->
+    <script src="/js/default.js"></script>
 
     <script src="bower_components/angular/angular.js"></script>
-    <!--<script src="bower_components/angular-winjs/js/angular-winjs.js"></script>-->
 
-    <script src="bower_components/ui-router/release/angular-ui-router.min.js"></script>
+    <script src="bower_components/ui-router/release/angular-ui-router.js"></script>
     <script src="bower_components/angular-animate/angular-animate.min.js"></script>
-
-    <!-- angular_test references -->
-    <link href="/css/default.css" rel="stylesheet" />
-    <script src="/js/default.js"></script>
-</head>
-<body class="phone">
-    <div ui-view class="turnstile-animation"></div>
 
     <script src="js/app.js"></script>
     <script src="views/home/home.controller.js"></script>
+    <script src="views/camera-details/camera-details.controller.js"></script>
+    <script src="js/services/winjs-bridge.service.js"></script>
+    <script src="js/services/proxy.service.js"></script>
 </body>
 </html>
